@@ -208,6 +208,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasanaly09&show_icons=true&locale=en" alt="hasanaly09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&" alt="hasanaly09" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hasanaly09&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
 
      
