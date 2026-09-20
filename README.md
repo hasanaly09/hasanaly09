@@ -1,6 +1,9 @@
 </head>
   <body>
     <div class="container">
+
+<img align="right" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" alt="maid gif" width="300" height="169" />
+
 # Hi 👋, I'm Hassan Ali
 
 ### 🤖 AI Engineer | MLOps & Deployment 
@@ -177,33 +180,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasanaly09&theme=radical" alt="hasanaly09's streak" />
 </p>
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
-</div>
-
 
 ---
 
