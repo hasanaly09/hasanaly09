@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hassan%20Ali&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20MLOps%20%26%20Deployment&descSize=20&descAlignY=60" alt="Hassan Ali - AI Engineer | MLOps & Deployment" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5A0&center=true&vCenter=true&width=640&lines=A+great+model+is+only+50%25+of+the+work.;Deploying+it+reliably+is+the+other+50%25.;Notebook+%E2%86%92+Docker+%E2%86%92+FastAPI+%E2%86%92+SageMaker.;Currently+training+my+Kubernetes+skills." alt="Typing SVG" />
