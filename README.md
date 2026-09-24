@@ -17,59 +17,11 @@
 
 ---
 
-## 🧾 Model Card: `hassan-ali`
+## 👋 About Me
 
-> Most people write a README. I wrote a model card, because that's how I think about everything: inputs, outputs, and what happens in production.
+Hi, I'm **Hassan**, an AI engineer who cares about what happens *after* the model is trained. I build end-to-end ML deployment pipelines with **FastAPI** and **AWS SageMaker**, and I'm currently leveling up on **MLOps, Kubernetes, and advanced deep learning**.
 
-| | |
-|---|---|
-| **Model name** | Hassan Ali |
-| **Task** | End-to-end ML: from trained model to reliable production service |
-| **Architecture** | Deep Neural Networks · NLP · Computer Vision |
-| **Frameworks** | PyTorch · TensorFlow · OpenCV |
-| **Serving stack** | FastAPI → Docker → AWS SageMaker |
-| **Currently fine-tuning** | MLOps · Kubernetes · Advanced Deep Learning |
-| **Open to** | Collaboration on AI/ML projects, model deployment, open-source MLOps tools |
-
-**✅ Intended use:** Ask me about MLOps, FastAPI, AWS SageMaker, Docker, data preprocessing, deep neural networks, and NLP.
-
-**⚠️ Known limitations:** Will steer any conversation toward deployment. Believes a model that only lives in a notebook is a draft, not a product.
-
----
-
-## 🛤️ My Pipeline
-
-The way I like to ship: every stage automated, every stage observable.
-
-```mermaid
-flowchart LR
-    A[📊 Data<br/>Preprocessing] --> B[🧠 Train<br/>PyTorch / TensorFlow]
-    B --> C[📦 Package<br/>Docker]
-    C --> D[⚡ Serve<br/>FastAPI]
-    D --> E[☁️ Deploy<br/>AWS SageMaker]
-    E --> F[📈 Monitor<br/>& Iterate]
-    F -.feedback.-> A
-
-    style A fill:#0d1117,stroke:#00E5A0,color:#fff
-    style B fill:#0d1117,stroke:#00E5A0,color:#fff
-    style C fill:#0d1117,stroke:#00E5A0,color:#fff
-    style D fill:#0d1117,stroke:#00E5A0,color:#fff
-    style E fill:#0d1117,stroke:#00E5A0,color:#fff
-    style F fill:#0d1117,stroke:#00E5A0,color:#fff
-```
-
----
-
-## 🎯 Current Runs
-
-```yaml
-status: training
-now:
-  building:  End-to-End ML Deployment Pipelines with FastAPI & AWS SageMaker
-  learning:  [MLOps, Kubernetes, Advanced Deep Learning (PyTorch & TensorFlow)]
-  seeking:   [AI/ML Projects, Model Deployment, Open Source MLOps Tools]
-philosophy: "Ship it, monitor it, improve it."
-```
+I'm always up for collaborating on AI/ML projects, model deployment, and open-source MLOps tools. Ask me about Docker, data preprocessing, deep neural networks, or NLP.
 
 ---
 
